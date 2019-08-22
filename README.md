@@ -1,4 +1,4 @@
-# alexflipnote.dev
+# chronomly.github.io
 
 - Site: https://chronomly.github.com
 - Usage: Information about myself
