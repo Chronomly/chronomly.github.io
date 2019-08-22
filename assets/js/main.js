@@ -8,7 +8,7 @@ window.addEventListener('scroll', function() {
 
 document.addEventListener('DOMContentLoaded', function() {
   // Load the time since I coded
-  var years_since = new Date("2015-08-01").getTime();
+  var years_since = new Date("2017-03-18").getTime();
   var today = new Date().getTime();
 
   var ms = today - years_since;
