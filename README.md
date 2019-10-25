@@ -1,6 +1,6 @@
 # chronomly.github.io
 
-- Site: https://chronomly.github.com
+- Site: https://chronomly.github.io
 - Usage: Information about myself
 - Framework:
   - [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
